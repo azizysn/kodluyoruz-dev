@@ -1,0 +1,73 @@
+.logo{
+    text-align: center;
+   
+}
+
+.frame {
+    width:956px;
+    height: 75px;
+    border: 3px solid #d0d0d0;
+    background: #d0d0d0;
+    margin: auto;
+    padding: 15px 10px;
+    border-radius: 5px;
+}
+
+.frame-1 {
+    width:500px;
+    height: 2px;
+    border: 1px solid black;
+    background: white;
+    margin: auto;
+    padding: 15px 10px;
+    border-radius: 3px;
+    position: relative;
+    top: -30px;
+}
+.p1{
+    position: relative;
+    top: -20px;
+}
+
+.frame2{
+    width:100px;
+    height: 1px;
+    border: 1px solid black;
+    background: rgb(137, 136, 136);
+    margin: auto;
+    padding: 15px 10px;
+    border-radius: 2px;
+    position: relative;
+    top: -30px;
+
+}
+
+.button{
+    position: relative;
+    top: -20px;
+}
+
+.div{
+    background-color: aquamarine;
+    width:320px;
+    height: 85px;
+    float: left;
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+    position: relative;
+    left: 265px;
+    top: 4px; 
+}
+
+.text{
+    position: relative;
+    top: -15px;
+}
+
+.text2{
+    position: relative;
+    top: -30px;
+}
+
+
